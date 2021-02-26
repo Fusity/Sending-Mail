@@ -5,7 +5,6 @@ This is a script to send mail with local ip in it
 Use this libraries
 ```bash
 sudo apt-get install mailutils mpack
-sudo apt-get install heirloom-mailx
 ```
 Use this library too
 
